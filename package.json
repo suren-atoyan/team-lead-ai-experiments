@@ -54,5 +54,8 @@
     "node",
     "typescript",
     "starter-kit"
-  ]
+  ],
+  "dependencies": {
+    "isbinaryfile": "^5.0.0"
+  }
 }
